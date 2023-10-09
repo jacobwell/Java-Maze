@@ -1,0 +1,19 @@
+0
+4 1
+none
+Sword
+none
+none
+none
+junk notUsed
+none
+none
+6
+hA 0 1
+hB 1 2
+hC 2 3
+hD 3 0
+hE 0 2
+hF 3 1
+1
+Blob 2

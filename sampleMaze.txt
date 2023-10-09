@@ -1,0 +1,17 @@
+4
+trap1 vanish prot1 
+trap2 weaken 20 prot2 
+spikes weaken 30 shield 
+teleporter warp 1 stabilizer 
+3 2 
+none 
+shield junk shield Sword 
+spikes 
+none
+none
+prot1 stabilizer
+2
+Hall 0 1
+Tunnel 1 2
+1
+wumpus 1
